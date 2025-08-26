@@ -1,4 +1,4 @@
-# Backend_Flask_
+# Backend_Flask_Evently
 # 🎉 Lista de Convidados — Flask + PostgreSQL
 
 Aplicação web para cadastro e gerenciamento de lista de convidados, feita em **Flask** com banco de dados **PostgreSQL**.  
@@ -29,4 +29,4 @@ Permite:
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/IgorFarias-hub/Backend_Flask_Igor.git
-cd Backend_Flask_Igor
+cd Backend_Flask_Evently
